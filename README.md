@@ -5,6 +5,14 @@ This app was built using a clean architecture with MVVM for the presentation lay
 
 # About the app
 
-UI of the app is created based on the API data provided.
+## Introduction
+
+The app is a demo and UI of the app is created based on the API provided data.
+
+## Architecture and components
 
 I used clean architecture based on MVVM and kotlin corotunies, flow and LiveData with Retrofit to get the data from the APIs.
+
+## Multilingual
+
+This app is also multilingual,right not it is only for English and Arabic based on default mobile language settings.
