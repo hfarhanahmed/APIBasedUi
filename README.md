@@ -7,3 +7,4 @@ This app was built using a clean architecture with MVVM for the presentation lay
 
 UI of the app is created based on the API data provided.
 
+I used clean architecture based on MVVM and kotlin corotunies, flow and LiveData with Retrofit to get the data from the APIs.
