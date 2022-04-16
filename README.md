@@ -15,4 +15,4 @@ I used clean architecture based on MVVM and kotlin corotunies, flow and LiveData
 
 ## Multilingual
 
-This app is also multilingual,right not it is only for English and Arabic based on default mobile language settings.
+This app is also multilingual, right now it is only for English and Arabic based on default mobile language settings.
