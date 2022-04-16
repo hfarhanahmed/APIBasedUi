@@ -20,5 +20,5 @@ This app is also multilingual, right now it is only for English and Arabic based
 # How to run the app
 
 1. Download/clone the app.
-2. open the folder named Sary in android studio(Artic fox)
+2. open the folder named Sary in android studio(Arctic fox)
 3. Run the app in emulator or a phisical device with usb debugging on.
